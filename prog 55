@@ -1,0 +1,8 @@
+#include <stdio.h>
+void main()
+{
+
+    priuntf("Impossible is nothing!\n);
+    
+    return 0;
+}
