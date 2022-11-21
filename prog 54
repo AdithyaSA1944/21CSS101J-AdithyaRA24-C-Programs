@@ -1,0 +1,7 @@
+#include <stdio.h>
+void main()
+{
+    printf("correcrt me!\n");
+    
+    return 0;
+}
