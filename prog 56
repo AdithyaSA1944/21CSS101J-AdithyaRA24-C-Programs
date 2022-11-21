@@ -1,0 +1,12 @@
+#include <stdio.h>
+void main()
+{
+    int age = 2;
+    int firstNumber = 2;
+    int second_number = 3;
+    int _i_am_also_a_valid_identifier = 4;
+    printf("age = %d\n",age );
+    printf("firstNumber = %d\n",firstNumber );
+    printf("second_number = %d\n",second_number );
+    printf("_i_am_also_a_valid_identifier = %d\n",_i_am_also_a_valid_identifier );
+} 
